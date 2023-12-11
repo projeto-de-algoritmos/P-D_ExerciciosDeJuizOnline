@@ -35,9 +35,6 @@ Além disso, investimos tempo em um projeto prático específico: o desenvolvime
 ![](./C/problema.png)
 ![](./C/resultado.png)
 
-#### [D - ]()
-![](./D/problema.png)
-![](./D/resultado.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
