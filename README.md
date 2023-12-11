@@ -1,44 +1,71 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios de Juiz Online e Sequencer
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Programação dinâmica<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| Matrícula  | Aluno                           |
+| ---------- | ------------------------------- |
+| 17/0020291 | Paulo Henrique Almeida da Silva |
+| 19/0023376 | Abraão Alves Ribeiro            |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercícios
+#### [A - Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) 
+![](./A/problema.png)
+![](./A/resultado.png)
+
+#### [B - ]() 
+![](./B/problema.png)
+![](./B/resultado.png)
+
+#### [C - ]()
+![](./C/problema.png)
+![](./C/resultado.png)
+
+#### [D - ]()
+![](./D/problema.png)
+![](./D/resultado.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+
+Para executar os exercícios e o projeto Tasks, você deve ter a seguinte linguagem instalada em sua máquina:
+
+- Python 3.x
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para utilizar nosso projeto, siga o passo a passo abaixo:
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+### Resolução de Exercícios em Juízes Online
+Acesse o diretório do exercício. Para os exercícios, navegue até o diretório correspondente (A, B, C ou D).
+
+Execute o comando Python:
+
+``` 
+$ python nome_do_arquivo.py
+``` 
+
+para executar a solução do exercício.
+Substitua "nome_do_arquivo.py" pelo nome do arquivo correspondente ao exercício (A.py, B.py, etc.).
+
+### Quebra de palavras (Sequencer)
+Acesse o diretório do projeto de tarefas. Navegue até o diretório "Sequencer".
+
+Execute o comando Python:
+
+```
+$ python sequencer.py
+``` 
+para iniciar o organizador de tarefas.
+
+Siga as instruções na interface para adicionar, excluir e visualizar tarefas.
+Ao seguir esses passos, você poderá aproveitar as soluções dos exercícios e utilizar o organizador de tarefas de maneira eficiente. Certifique-se de ter o Python instalado em seu ambiente antes de executar os comandos.
+
+## Apresentação
+> - [Vídeo de apresentação](./)
 
 
 
