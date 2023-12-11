@@ -9,9 +9,19 @@
 | 19/0023376 | Abraão Alves Ribeiro            |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Nosso foco principal foi aprimorar habilidades em programação dinâmica, uma técnica essencial na resolução de problemas algorítmicos desafiadores. Dedicamos tempo significativo à resolução de desafios em juízes online, visando fortalecer nossa proficiência nessa abordagem.
+
+Destacamos a aplicação de estratégias de programação dinâmica nos desafios propostos pelas plataformas, que envolvem quebrar problemas complexos em subproblemas menores, promovendo uma compreensão profunda dos algoritmos.
+
+Além disso, investimos tempo em um projeto prático específico: o desenvolvimento do Sequencer. Este projeto consolida conceitos de programação dinâmica, oferecendo uma aplicação tangível dessa abordagem. O Sequencer é uma ferramenta para alinhamento de sequências. 
 
 ## Screenshots
+
+### Sequencer
+![](./Sequencer/sequencer.png/)
+![](./Sequencer/quebra-sequencer.png/)
+![](./Sequencer/nao-quebra-sequencer.png/)
+
 ### Exercícios
 #### [A - Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) 
 ![](./A/problema.png)
@@ -32,9 +42,14 @@ Descreva os objetivos do seu projeto e como ele funciona.
 ## Instalação 
 **Linguagem**: Python<br>
 
-Para executar os exercícios e o projeto Tasks, você deve ter a seguinte linguagem instalada em sua máquina:
+Para executar os exercícios e o projeto Sequencer, você deve ter a seguinte linguagem instalada em sua máquina:
 
 - Python 3.x
+
+**Biblioteca**: pillow <br>
+Para executar o projeto Sequencer, você deve ter a seguinte biblioteca instalada em sua máquina:
+
+- pillow 10.x.x
 
 ## Uso 
 Para utilizar nosso projeto, siga o passo a passo abaixo:
@@ -59,10 +74,27 @@ Execute o comando Python:
 ```
 $ python sequencer.py
 ``` 
-para iniciar o organizador de tarefas.
+para iniciar o Sequencer.
 
-Siga as instruções na interface para adicionar, excluir e visualizar tarefas.
-Ao seguir esses passos, você poderá aproveitar as soluções dos exercícios e utilizar o organizador de tarefas de maneira eficiente. Certifique-se de ter o Python instalado em seu ambiente antes de executar os comandos.
+> Explore as funcionalidades do Sequencer!
+
+Siga as instruções abaixo para interagir com eficiência no Sequencer. Antes de começar, certifique-se de ter o Python instalado em seu ambiente.
+
+#### Adicionar Palavras:
+
+Digite uma palavra na caixa de entrada.
+Clique no botão 'Adicionar Palavra' para incluir a nova palavra no dicionário.
+A lista de palavras será automaticamente atualizada.
+
+#### Verificar Quebra de Palavras:
+
+Digite uma palavra na caixa de entrada.
+Clique no botão 'Verificar' para descobrir se a palavra pode ser quebrada com base no dicionário.
+
+#### Visualizar Palavras do Dicionário:
+
+A lista de palavras do dicionário é exibida na parte inferior da janela.
+Ela é atualizada automaticamente quando novas palavras são adicionadas.
 
 ## Apresentação
 > - [Vídeo de apresentação](./)
