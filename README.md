@@ -28,10 +28,10 @@ Além disso, investimos tempo em um projeto prático específico: o desenvolvime
 ![](./A/resultado.png)
 
 #### [B - ]() 
-![](./B/problema.png)
+![](./B/problema.pdf)
 ![](./B/resultado.png)
 
-#### [C - ]()
+#### [C - Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/)
 ![](./C/problema.png)
 ![](./C/resultado.png)
 
