@@ -27,8 +27,8 @@ Além disso, investimos tempo em um projeto prático específico: o desenvolvime
 ![](./A/problema.png)
 ![](./A/resultado.png)
 
-#### [B - ]() 
-![](./B/problema.pdf)
+#### [B - Santa Claus Bag]() 
+![](./B/problema.png)
 ![](./B/resultado.png)
 
 #### [C - Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/)
@@ -37,7 +37,7 @@ Além disso, investimos tempo em um projeto prático específico: o desenvolvime
 
 
 ## Instalação 
-**Linguagem**: Python<br>
+**Linguagem**:Python e C++<br>
 
 Para executar os exercícios e o projeto Sequencer, você deve ter a seguinte linguagem instalada em sua máquina:
 
@@ -52,16 +52,23 @@ Para executar o projeto Sequencer, você deve ter a seguinte biblioteca instalad
 Para utilizar nosso projeto, siga o passo a passo abaixo:
 
 ### Resolução de Exercícios em Juízes Online
-Acesse o diretório do exercício. Para os exercícios, navegue até o diretório correspondente (A, B, C ou D).
+Acesse o diretório do exercício. Para os exercícios, navegue até o diretório correspondente (A, B ou C).
 
 Execute o comando Python:
 
 ``` 
 $ python nome_do_arquivo.py
 ``` 
+> Substitua "nome_do_arquivo.py" pelo nome do arquivo correspondente ao exercício (A.py ou C.py).
+
+ou
+
+```
+$ g++ B.cpp -o app
+$ ./app
+```
 
 para executar a solução do exercício.
-Substitua "nome_do_arquivo.py" pelo nome do arquivo correspondente ao exercício (A.py, B.py, etc.).
 
 ### Quebra de palavras (Sequencer)
 Acesse o diretório do projeto de tarefas. Navegue até o diretório "Sequencer".
