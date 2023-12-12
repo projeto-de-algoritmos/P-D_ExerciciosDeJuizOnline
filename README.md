@@ -101,8 +101,7 @@ A lista de palavras do dicionário é exibida na parte inferior da janela.
 Ela é atualizada automaticamente quando novas palavras são adicionadas.
 
 ## Apresentação
-> - [Vídeo de apresentação](./)
-
+> - [Vídeo de apresentação](./apresentacao.zip)
 
 
 
